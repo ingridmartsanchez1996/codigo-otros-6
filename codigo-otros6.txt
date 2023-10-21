@@ -4,7 +4,7 @@
 
 // Ejercicio: Revisión de Código de otros 6
 
-https://gist.github.com/eduardojesus12/a06e4e2d82cbcf3eba3fe35ea4ff1c69
+// https://gist.github.com/eduardojesus12/a06e4e2d82cbcf3eba3fe35ea4ff1c69
 
 
 // ========================
