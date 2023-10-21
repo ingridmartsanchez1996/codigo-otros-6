@@ -1,5 +1,5 @@
-Nombre: Ingrid Jeraldin Martínez Sánchez
-Rúbrica: 4/5 Competente
+// Nombre: Ingrid Jeraldin Martínez Sánchez
+// Rúbrica: 4/5 Competente
 
 
 // Ejercicio: Revisión de Código de otros 6
